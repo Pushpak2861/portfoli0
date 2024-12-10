@@ -58,7 +58,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "pushpak2861", 
+  gitHubUsername: "Pushpak2861", 
   reposLength: 4,
   specificRepos: ["Genetic-programming" , "gradient_descent" , "pytorch" , "Googletrans"],
 };
