@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Pushpak Raj. I’m a Masters student in Artificial Intelligence and Machine Learning from University of Limerick at Ireland. I'm most passionate about giving back to the community, My Goal is to be a Machine Learning engineering. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1AShdalK1pGkk0sWP35vzjlth55BvBDWL/view?usp=sharing",
 };
 
 // PROJECTS SECTION
